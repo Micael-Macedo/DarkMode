@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #eceff1;
+  transition: 0.3s;
+}
+
+input[type=checkbox] {
+  display: none;
+}
+
+.dark,
+.dark header {
+  background-color: #263238;
+  color: #FFF;
+}/*# sourceMappingURL=style.css.map */
